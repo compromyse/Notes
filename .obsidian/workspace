@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f153d307f95f5872",
+        "id": "9e7e8307c59d9a98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Stablilze Shell.md",
+            "file": "Assembly/Common instructions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Stablilze Shell.md",
+                "file": "Assembly/Common instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Stablilze Shell.md",
+                "file": "Assembly/Common instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Stablilze Shell.md"
+                "file": "Assembly/Common instructions.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f153d307f95f5872",
+  "active": "9e7e8307c59d9a98",
   "lastOpenFiles": [
+    "Assembly/Structure.md",
+    "Assembly/Datatypes.md",
+    "Linux/Stablilze Shell.md",
     "Linux/Reverse Shells.md",
     "Linux/KingOfTheHill.md",
     "John.md",
-    "Linux/Stablilze Shell.md",
     "Windows/MimiKatz.md",
     "Hashcat.md",
     "Windows/Powershell.md",
-    "Windows/PowerView.md",
-    "Powershell.md",
-    "Reverse Shells/Python.md"
+    "Windows/PowerView.md"
   ]
 }
