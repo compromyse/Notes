@@ -1,5 +1,3 @@
-# MimiKatz
-
 ### https://github.com/gentilkiwi/mimikatz/releases
 
 ## Check for privileges

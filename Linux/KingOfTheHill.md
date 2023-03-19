@@ -1,5 +1,3 @@
-# King Of The Hill
-
 ## Find SUID files
 
 ```bash

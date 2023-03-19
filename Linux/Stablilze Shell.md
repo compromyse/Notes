@@ -1,47 +1,47 @@
-# Initial
+## First Steps 
 
-## python
+#### python
 
 ```bash
 python -c 'import pty;pty.spawn("/bin/bash")'
 ```
 
-## python2
+#### python2
 
 ```bash
 python2 -c 'import pty;pty.spawn("/bin/bash")'
 ```
 
-## python3
+#### python3
 
 ```bash
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 ```
 
-## ruby
+#### ruby
 
 ```bash
 ruby -e "exec '/bin/bash'"
 ```
 
-## perl
+#### perl
 
 ```bash
 perl -e "exec '/bin/bash'"
 ```
 
-# Middle
+## Host Shell
 
-## Remove echo
+#### Remove echo
 
 ```bash
 CONTROL+Z
 stty raw -echo; fg
 ```
 
-# Final
+## Last Step
 
-## export the term
+#### Export the term
 
 ```bash
 export TERM=xterm
