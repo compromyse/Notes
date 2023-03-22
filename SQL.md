@@ -1,4 +1,4 @@
-### Connect To MySQL Database
+#### Connect To MySQL Database
 
 ```sh
 mysql -u user -h host -P port -p
